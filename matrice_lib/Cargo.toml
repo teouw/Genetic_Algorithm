@@ -1,0 +1,7 @@
+[package]
+name = "matrice_lib"
+version = "0.1.0"
+authors = ["teo <teokaltrachian16@hotmail.com>"]
+
+[dependencies]
+city_position_lib = { path = "../city_position_lib" }

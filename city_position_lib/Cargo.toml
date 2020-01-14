@@ -1,0 +1,6 @@
+[package]
+name = "city_position_lib"
+version = "0.1.0"
+authors = ["teo <teokaltrachian16@hotmail.com>"]
+
+[dependencies]
